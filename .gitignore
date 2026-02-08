@@ -21,3 +21,11 @@ Product Requirements Document.docx
 Product Requirements Document.pdf
 stitch_home_dashboard
 stitch_home_dashboard_dark_mode
+kunci_aplikasi.jks
+kunci_aplikasi.jks.bak
+
+
+# Signing config
+*.keystore
+*.jks
+keystore.properties
